@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/maddieholdsworth/my-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
